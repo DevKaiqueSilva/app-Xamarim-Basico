@@ -1,0 +1,36 @@
+appCompilacao.CalcNum1, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.CalcNum1
+appCompilacao.CalcNum1, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.CalcNum1
+appCompilacao.CalcNum1;md50820079cff015794753dbc1dc5ee2f8a.CalcNum1
+appcompilacao.CalcNum1;md50820079cff015794753dbc1dc5ee2f8a.CalcNum1
+appCompilacao.CalcNum2, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.CalcNum2
+appCompilacao.CalcNum2, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.CalcNum2
+appCompilacao.CalcNum2;md50820079cff015794753dbc1dc5ee2f8a.CalcNum2
+appcompilacao.CalcNum2;md50820079cff015794753dbc1dc5ee2f8a.CalcNum2
+appCompilacao.CalcOper, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.CalcOper
+appCompilacao.CalcOper, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.CalcOper
+appCompilacao.CalcOper;md50820079cff015794753dbc1dc5ee2f8a.CalcOper
+appcompilacao.CalcOper;md50820079cff015794753dbc1dc5ee2f8a.CalcOper
+appCompilacao.Camera, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.Camera
+appCompilacao.Camera, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.Camera
+appCompilacao.Camera;md50820079cff015794753dbc1dc5ee2f8a.Camera
+appcompilacao.Camera;md50820079cff015794753dbc1dc5ee2f8a.Camera
+appCompilacao.Discador, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.Discador
+appCompilacao.Discador, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.Discador
+appCompilacao.Discador;md50820079cff015794753dbc1dc5ee2f8a.Discador
+appcompilacao.Discador;md50820079cff015794753dbc1dc5ee2f8a.Discador
+appCompilacao.MainActivity, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.MainActivity
+appCompilacao.MainActivity, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.MainActivity
+appCompilacao.MainActivity;md50820079cff015794753dbc1dc5ee2f8a.MainActivity
+appcompilacao.MainActivity;md50820079cff015794753dbc1dc5ee2f8a.MainActivity
+appCompilacao.Navagador, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.Navagador
+appCompilacao.Navagador, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.Navagador
+appCompilacao.Navagador;md50820079cff015794753dbc1dc5ee2f8a.Navagador
+appcompilacao.Navagador;md50820079cff015794753dbc1dc5ee2f8a.Navagador
+appCompilacao.SMS, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.SMS
+appCompilacao.SMS, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.SMS
+appCompilacao.SMS;md50820079cff015794753dbc1dc5ee2f8a.SMS
+appcompilacao.SMS;md50820079cff015794753dbc1dc5ee2f8a.SMS
+appCompilacao.Video, appCompilacao;md50820079cff015794753dbc1dc5ee2f8a.Video
+appCompilacao.Video, appCompilacao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50820079cff015794753dbc1dc5ee2f8a.Video
+appCompilacao.Video;md50820079cff015794753dbc1dc5ee2f8a.Video
+appcompilacao.Video;md50820079cff015794753dbc1dc5ee2f8a.Video
